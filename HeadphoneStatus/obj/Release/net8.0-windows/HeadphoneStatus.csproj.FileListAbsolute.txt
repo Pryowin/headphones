@@ -1,0 +1,14 @@
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.AssemblyInfoInputs.cache
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.AssemblyInfo.cs
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.csproj.CoreCompileInputs.cache
+D:\users\david\code\headphones\HeadphoneStatus\bin\Release\net8.0-windows\HeadphoneStatus.exe
+D:\users\david\code\headphones\HeadphoneStatus\bin\Release\net8.0-windows\HeadphoneStatus.deps.json
+D:\users\david\code\headphones\HeadphoneStatus\bin\Release\net8.0-windows\HeadphoneStatus.runtimeconfig.json
+D:\users\david\code\headphones\HeadphoneStatus\bin\Release\net8.0-windows\HeadphoneStatus.dll
+D:\users\david\code\headphones\HeadphoneStatus\bin\Release\net8.0-windows\HeadphoneStatus.pdb
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.dll
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\refint\HeadphoneStatus.dll
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.pdb
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.genruntimeconfig.cache
+D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\ref\HeadphoneStatus.dll
