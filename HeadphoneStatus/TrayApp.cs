@@ -10,7 +10,7 @@ internal sealed class TrayApp : IDisposable
     private readonly HeadphoneMonitor _monitor = new();
     private readonly Icon _onIcon = IconFactory.CreateHeadphoneIcon(Color.LimeGreen);
     private readonly Icon _offIcon = IconFactory.CreateHeadphoneIcon(Color.Gainsboro);
-    private HeadphoneState? _lastState;
+    private HeadphoneReading? _lastReading;
 
     public TrayApp()
     {
@@ -41,16 +41,16 @@ internal sealed class TrayApp : IDisposable
 
     private void Poll()
     {
-        var state = _monitor.Poll();
-        if (state == _lastState) return;
-        _lastState = state;
+        var reading = _monitor.Poll();
+        if (reading == _lastReading) return;
+        _lastReading = reading;
 
-        switch (state)
+        switch (reading.State)
         {
             case HeadphoneState.On:
                 _notifyIcon.Icon = _onIcon;
-                _notifyIcon.Text = "G535: On";
-                _statusItem.Text = "Headphones are ON";
+                _notifyIcon.Text = reading.BatteryPercent is { } pct ? $"G535: On ({pct}%)" : "G535: On";
+                _statusItem.Text = reading.BatteryPercent is { } pct2 ? $"Headphones are ON ({pct2}%)" : "Headphones are ON";
                 break;
             case HeadphoneState.Off:
                 _notifyIcon.Icon = _offIcon;

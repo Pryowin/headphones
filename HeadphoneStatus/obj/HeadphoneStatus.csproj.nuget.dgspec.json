@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\users\\david\\code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj": {}
+    "D:\\Users\\david\\Code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj": {}
   },
   "projects": {
-    "D:\\users\\david\\code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj": {
+    "D:\\Users\\david\\Code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\users\\david\\code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj",
+        "projectUniqueName": "D:\\Users\\david\\Code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj",
         "projectName": "HeadphoneStatus",
-        "projectPath": "D:\\users\\david\\code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj",
+        "projectPath": "D:\\Users\\david\\Code\\headphones\\HeadphoneStatus\\HeadphoneStatus.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\users\\david\\code\\headphones\\HeadphoneStatus\\obj\\",
+        "outputPath": "D:\\Users\\david\\Code\\headphones\\HeadphoneStatus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

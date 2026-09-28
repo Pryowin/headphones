@@ -12,3 +12,4 @@ D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\refint
 D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.pdb
 D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.genruntimeconfig.cache
 D:\users\david\code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\ref\HeadphoneStatus.dll
+D:\Users\david\Code\headphones\HeadphoneStatus\obj\Release\net8.0-windows\HeadphoneStatus.sourcelink.json

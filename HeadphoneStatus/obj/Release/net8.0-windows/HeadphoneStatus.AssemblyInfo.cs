@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeadphoneStatus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95499c9ac1599edd03c538591a17f7a3d781cf2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeadphoneStatus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeadphoneStatus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
